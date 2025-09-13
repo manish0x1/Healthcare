@@ -1,4 +1,4 @@
-Here is a professional and structured `README.md` content suitable for your MERN stack Healthcare project:
+
 
 ````markdown
 # 🏥 Healthcare: Online Appointment & Health Record System
